@@ -1,0 +1,2 @@
+C:/HWInfo/hwi_833_5860/HWiNFO64.exe
+C:/Program Files (x86)/MSI Afterburner/MSIAfterburner.exe
